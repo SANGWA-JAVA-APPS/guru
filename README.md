@@ -1,7 +1,7 @@
 # guru
 code generator
 Code Generator  v.0.0.1
-Overview: The Code Generator (v1) is a Java Spring Boot application designed to streamline the development process by enabling users to generate fully functional Spring Boot CRUD code in just a minute. The tool is ideal for developers who want to quickly create a backend without manually writing repetitive boilerplate code.
+Overview: The Code Generator (v1) is a Java Spring Boot application designed to streamline the development process by enabling users to generate fully functional Spring Boot CRUD code in just a minute. The tool is ideal for developers who want to quickly create a backend without manually writing repetitive boilerplate code. (This is only backend)
 
 Key Features:
 
