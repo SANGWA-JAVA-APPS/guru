@@ -37,6 +37,14 @@ Frontend screenshots:
 In order to start the user has to give the properties of a java application:
 ![guru-adding a structure](https://github.com/user-attachments/assets/7b5fb442-3bab-43da-afc7-429a95e05071)
 
+
+ADDING AN ENTITY AND RELATIONSHIP
+----------------------------------
 ![guru-adding-entity](https://github.com/user-attachments/assets/1a000db9-bca3-47e2-8c22-7f06ef5428ef)
+
+
+DEPLOYING AND DOWNLOADING THE SOURCE CODE
+-----------------------------------------
+![guru-deploying-app and downloading backend](https://github.com/user-attachments/assets/04e0c9b3-610e-4027-9e60-780339c8bd43)
 
 www.codeguru-pro.com
