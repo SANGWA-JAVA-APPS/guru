@@ -30,6 +30,12 @@ Intended Use:
 
 This version of the Code Generator is perfect for developers who need to quickly prototype applications, create boilerplate code for larger projects, or learn about Spring Boot's structure and best practices. It's especially useful in scenarios where time is of the essence, and rapid development is required.
 
-If you find this interesting kindly give i  a start or let me know via sangwa22@gmail.com.
+If you find this interesting kindly give it a start or let me know via sangwa22@gmail.com.
+
+
+Frontend screenshots:
+In order to start the user has to give the properties of a java application:
+![guru-adding a structure](https://github.com/user-attachments/assets/7b5fb442-3bab-43da-afc7-429a95e05071)
+
 
 www.codeguru-pro.com
