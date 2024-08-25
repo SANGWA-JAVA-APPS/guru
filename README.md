@@ -35,6 +35,10 @@ If you find this interesting kindly give it a start or let me know via sangwa22@
 
 Frontend screenshots:
 In order to start the user has to give the properties of a java application:
+
+
+CREATING A PROJECT
+------------------
 ![guru-adding a structure](https://github.com/user-attachments/assets/7b5fb442-3bab-43da-afc7-429a95e05071)
 
 
